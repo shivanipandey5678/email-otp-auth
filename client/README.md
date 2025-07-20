@@ -22,38 +22,36 @@ Live Demo (if deployed): _Coming Soon_
 
 ---
 
+
+
 ## 📸 Screenshots
 
 ### 🔐 Signup & Login
-![Signup](./client/public/screenshots/signup.png)
-![Login](./client/public/screenshots/login.png)
+![Signup](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/signup.png?raw=true)
+![Login](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/login.png?raw=true)
 
----
-
-### ✉️ Email Verification
-![Email Verify OTP Form](./client/public/screenshots/emailVerifyOtpForm.png)
 
 ---
 
 ### 📥 OTP Insertion Pages
-![OTP Insertion](./client/public/screenshots/otpInsertionPage.png)
-![Reset OTP Form](./client/public/screenshots/resetOtpInsertionForm.png)
+![OTP Insertion](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/otpInsertionPage.png?raw=true)
+![Reset OTP Form](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/resetOtpInsertionForm.png?raw=true)
 
 ---
 
 ### 🔃 Reset Password
-![Reset Password](./client/public/screenshots/resetPassword.png)
+![Reset Password](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/resetPassword.png?raw=true)
 
 ---
 
 ### ✅ Alerts / Notifications
-![Alerts](./client/public/screenshots/alerts.png)
+![Alerts](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/alerts.png?raw=true)
 
 ---
 
 ### 🏠 Post-Login UI
-![Home Page After Login](./client/public/screenshots/homePageAfterLogin.png)
-![Dropdown](./client/public/screenshots/homeDropDown.png)
+![Home Page After Login](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/homePageAfterLogin.png?raw=true)
+![Dropdown](https://github.com/shivanipandey5678/email-otp-auth/blob/main/client/public/screenshots/homeDropDown.png?raw=true)
 
 ---
 
